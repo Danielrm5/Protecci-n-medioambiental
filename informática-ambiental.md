@@ -19,12 +19,15 @@
 > **Resumen Ejecutivo:** > Este repositorio investiga el coste físico real de nuestra infraestructura digital. Desmantela la idea de que la tecnología es inmaterial y propone alternativas tangibles basadas en la Informática Ecológica para alinear la innovación tecnológica con la preservación del ecosistema global.
 
 ## 📑 Índice de Contenidos
-1. [La Contaminación Tecnológica](#1-qué-es-la-contaminación-ambiental-en-la-era-digital)
-2. [El Problema de los RAEE](#2-residuos-informáticos-raee-una-crisis-tóxica)
-3. [Obsolescencia Programada](#3-obsolescencia-programada-el-hiperconsumo-forzado)
-4. [La Minería de Datos y la Energía](#4-el-coste-energético-de-la-nube-y-la-ia)
-5. [Informática Ecológica (Green Computing)](#5-informática-ecológica-green-computing-y-soluciones)
-6. [Autores y Referencias](#6-colaboración-y-referencias)
+
+| Nº | Sección del Proyecto |
+| :---: | :--- |
+| **1** | [La Contaminación Tecnológica](#1-qué-es-la-contaminación-ambiental-en-la-era-digital) |
+| **2** | [El Problema de los RAEE](#2-residuos-informáticos-raee-una-crisis-tóxica) |
+| **3** | [Obsolescencia Programada](#3-obsolescencia-programada-el-hiperconsumo-forzado) |
+| **4** | [La Minería de Datos y la Energía](#4-el-coste-energético-de-la-nube-y-la-ia) |
+| **5** | [Informática Ecológica (Green Computing)](#5-informática-ecológica-green-computing-y-soluciones) |
+| **6** | [Autores y Referencias](#6-colaboración-y-referencias) |
 
 ---
 
