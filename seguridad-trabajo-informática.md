@@ -1,3 +1,3 @@
 # 💻 Seguridad y Salud en el Trabajo: Entornos Informáticos
 
-![Banner de Seguridad Informática](img/seguridadinformatica.png)
+![Banner de Seguridad Informática](img/seguridad-informatica.png)
