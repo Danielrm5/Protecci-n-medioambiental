@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=2000&q=80" alt="Banner Informática Ambiental" style="border-radius: 10px; width: 100%; max-height: 250px; object-fit: cover;">
-
 # 🌱 Informática Ambiental: El impacto físico de un mundo digital
 **Hacia una tecnología éticamente sostenible y responsable.**
 
